@@ -1,2 +1,4 @@
-# MEMORY-MATCH-GAME
-Project: Memory Match Game
+# EchoTiles
+
+Working local MVP matching its project prompt. Open index.html directly or from the mini-projects local server.
+
